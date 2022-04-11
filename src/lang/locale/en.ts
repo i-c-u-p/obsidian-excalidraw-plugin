@@ -170,7 +170,7 @@ export default {
   DEFAULT_OPEN_MODE_NAME: "Default mode when opening Excalidraw",
   DEFAULT_OPEN_MODE_DESC:
     "Specifies the mode how Excalidraw opens: Normal, Zen, or View mode. You may also set this behavior on a file level by " +
-    "adding the excalidraw-default-mode frontmatter key with a value of: normal,view, or zen to your document.",
+    "adding the excalidraw-default-mode frontmatter key with a value of: normal, view, or zen to your document.",
   DEFAULT_PEN_MODE_NAME: "Pen mode",
   DEFAULT_PEN_MODE_DESC:
     "Should pen mode be automatically enabled when opening Excalidraw?",
